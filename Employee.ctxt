@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Employee()
+comment1.params=name\ id\ salary
+comment1.target=Employee(java.lang.String,\ int,\ double)
+comment2.params=e
+comment2.target=void\ printEmployee(Employee)
+comment3.params=e1\ e2
+comment3.target=boolean\ sameEmployee(Employee,\ Employee)
+comment4.params=e1\ e2
+comment4.target=int\ compareEmployee(Employee,\ Employee)
+numComments=5
